@@ -1,6 +1,10 @@
 # RFM Analysis on Brazilian E-Commerce Dashboard
 Basic dashboard tentang Recency, Frequency, and Monetary analysis on Brazilian E-commerce menggunakan Python and streamlit di mana dataset yang saya gunakan dari [Kaggle]('https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce').
 
+## Data
+Untuk data pada file notebook untuk kebutuhan analisa Brazilian E-Commerce datasets, dapat diakses pada link 
+('https://drive.google.com/drive/folders/16aYzM7A7CQk4MQAdVsipSa4wPmhKR915?usp=sharing').
+
 ## How to run streamlit app
 
 ### Step 1:
