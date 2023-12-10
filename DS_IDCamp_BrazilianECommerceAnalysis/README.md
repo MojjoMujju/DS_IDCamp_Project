@@ -23,7 +23,7 @@ Hello and welcome to my RFM analysis project. This project used dataset that ava
   The aim of this project is to find out customer segmentation insights based on order recency, orders, frequency and transaction value as well as to get other insights such as the distribution of customers when they last placed an order, customer orders and transaction value. Therefore, I carry out data analysis using Recency, Frequency, and Monetary Analysis (RFM) so that I can conclude information to help in decision making.
 
   # Method
-  The method I used in this project was Exploratory Data Analysis (EDA) by analyzing the data and visualizing it to gain a better understanding. The features of the dataset I use are order ID, customer ID, approved orders, and payment value. I also create a dashboard using Streamlit to show the data visualization on [web app](https://rfm-analysis-in-ecommerce-dashboard-haris.streamlit.app/).
+  The method I used in this project was Exploratory Data Analysis (EDA) by analyzing the data and visualizing it to gain a better understanding. The features of the dataset I use are order ID, customer ID, approved orders, and payment value.
 
   # Conclusion
   After analyzing the data, I can draw conclusions based on the results of the analysis to help answer the questions I raised.
