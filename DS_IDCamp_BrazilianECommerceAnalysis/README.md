@@ -31,11 +31,13 @@ The method I used in this project was Exploratory Data Analysis (EDA) by analyzi
 
 # Conclusion
 After analyzing the data, I can draw conclusions based on the results of the analysis to help answer the questions I raised.
-1. With the RFM analysis that has been carried out, the results can be concluded:
-  * Based on recency, the customer made a purchase some time ago but has not been active recently,
-  * based on frequency, customers only make one purchase and there are no repeat purchases,
-  * Based on the monetary side, customers tend to buy with a fairly high spending value.
-2. The distribution of customers who used e-commerce the last time they placed an order tends to be right skewed because the longest number of days a customer has not placed an order decreases, whereas most customers tend to use e-commerce to place an order between 0-300 days.
-3. The state with the most orders by customers is the SP state and the state with the fewest orders by users is the RR state.
-4. The state with the highest total transaction value is SP State and the highest average transaction value is PB State.
-5. The month with the highest total transaction value was November 2017 and the highest average transaction value was October 2016.
+
+1. Conclusion for Question 1: It can be observed that the recency, or the most recent orders from customers, is within the last 300 days.
+2. Conclusion for Question 2: From the data analysis, it is evident that the purchase frequency of customers is relatively low, indicating that customers don't make frequent purchases on the Brazilian E-Commerce platform.
+3. Conclusion for Question 3: The analysis reveals that the amount of money spent by customers is not exceptionally high. The majority of customers fall within the range of approximately 50 to 80 Brazilian reals.
+4. Conclusion for Question 4: The top 5 customers with the highest number of purchases made a total of 29 items in the Brazilian E-Commerce dataset, while the lowest among them made 19 items.
+5. Conclusion for Question 5: The region with the highest number of purchases is SP, followed by RJ.
+6. Conclusion for Question 6: The highest total revenue is observed in the SP region. However, when looking at the average expenditure per purchase, the PB region has a higher average spending compared to SP.
+7. Conclusion for Question 7: It is evident that the most frequently used payment method is credit card.
+8. Conclusion for Question 8: The top 5 products with the highest number of purchases are bed_bath_table, health_beauty, sports_leisure, furniture_decor, and computer_accessories.
+9. Conclusion for Question 9: The highest revenue is recorded in December 2017 and June 2018.
