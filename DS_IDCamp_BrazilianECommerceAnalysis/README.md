@@ -27,7 +27,6 @@ The method I used in this project was Exploratory Data Analysis (EDA) by analyzi
 
 # Conclusion
 After analyzing the data, I can draw conclusions based on the results of the analysis to help answer the questions I raised.
-
 1. With the RFM analysis that has been carried out, the results can be concluded:
   * Based on recency, the customer made a purchase some time ago but has not been active recently,
   * based on frequency, customers only make one purchase and there are no repeat purchases,
