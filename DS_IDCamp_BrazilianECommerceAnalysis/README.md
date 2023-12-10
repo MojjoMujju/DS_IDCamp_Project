@@ -13,11 +13,15 @@ Hello and welcome to my RFM analysis project. This project used dataset that ava
 RFM analysis is one of the widely used technique to gain insight into customer behavior and segmentation that categorizes customers based on three key metrics: Recency, Frequency, and Monetary value. This project aims to do RFM Analysis on E-commerce where the dataset is public dataset of orders made at Olist Store. The dataset has information on 100 thousand orders from 2016 to 2018 made in several marketplaces in Brazil. Beside RFM analysis, I also performed data exploration to gain more insight from the dataset.
   
 # Analysis Questions
-1. How is the segmentation of customers based on order recency, order frequency, and transaction value?
-2. What is the distribution of customers who used e-commerce the last time they placed an order?
-3. Which state have the most and fewest customer orders?
-4. Which state has the highest total and average transaction value?
-5. Which month has the highest total and average transaction value?
+1. Question 1: How is the distribution of customers based on recency?
+2. Question 2: How is the distribution of customers based on purchase frequency?
+3. Question 3: How is the distribution of customers based on monetary value/spending amount?
+3. Question 4: Which customer ID has the highest number of orders in Brazilian E-Commerce?
+4. Question 5: What is the analysis of the number of purchases based on state in the Brazil region?
+5. Question 6: What is the analysis of the total revenue and average revenue based on state in the Brazil region?
+6. Question 7: Which payment method is most frequently used?
+7. Question 8: What product is most commonly purchased in Brazilian E-Commerce?
+8. Question 9: How is the trend of revenue changing each month?
 
 # Objective
 The aim of this project is to find out customer segmentation insights based on order recency, orders, frequency and transaction value as well as to get other insights such as the distribution of customers when they last placed an order, customer orders and transaction value. Therefore, I carry out data analysis using Recency, Frequency, and Monetary Analysis (RFM) so that I can conclude information to help in decision making.
